@@ -61,5 +61,4 @@ const foo = function(){
 }
 
 watchFn(foo)
-proxyObj.name = 'lalalal'
-proxyObj.name = '3333'
+proxyObj.name = '彭思涛'
